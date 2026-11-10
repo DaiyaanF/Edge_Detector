@@ -1,0 +1,16 @@
+vivado_project/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+.Xil/
+*.jou
+*.log
+*.str
+*.backup.*
+webtalk*
+usage_statistics_webtalk.*
+*.asv
+*.autosave
